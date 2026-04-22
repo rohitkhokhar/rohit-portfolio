@@ -1,5 +1,5 @@
 /* =================================================================== 
- * Luther Main Stylesheet
+ * Rohit Main Stylesheet
  * Template Ver. 1.0.0
  * 02-15-2021
  * ------------------------------------------------------------------
@@ -3998,7 +3998,7 @@ img.u-pull-left {
 @media screen and (max-width: 400px) {
     .folio-list .column {
         flex  : none;
-        width : 50%;
+        width : 49%;
     }
 
     .folio-list__item {
